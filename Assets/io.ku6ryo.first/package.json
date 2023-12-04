@@ -4,5 +4,8 @@
     "displayName": "Ryokuro's First Package",
     "description": "This is just a test package.",
     "unity": "2022.3.13f1",
-    "license": "MIT"
+    "license": "MIT",
+    "author": {
+      "name": "Ryo Kuroyanagi"
+    }
   }
