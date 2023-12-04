@@ -1,0 +1,1 @@
+This is my first OpenUPM package. This package does not include anything useful.
