@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "displayName": "Ryokuro's First Package",
   "description": "This is just a test package.",
-  "unity": "2022.3.13f1",
+  "unity": "2022.3",
   "license": "MIT",
   "documentationUrl": "https://github.com/ku6ryo/FirstOpenUpmPackage/README.md",
   "changelogUrl": "",
