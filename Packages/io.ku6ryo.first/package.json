@@ -1,6 +1,6 @@
 {
     "name": "io.ku6ryo.first",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "displayName": "Ryokuro's First Package",
     "description": "This is just a test package.",
     "unity": "2022.3",
