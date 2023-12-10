@@ -1,6 +1,6 @@
 {
     "name": "io.ku6ryo.first",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "displayName": "Ryokuro's First Package",
     "description": "This is just a test package.",
     "unity": "2022.3",
@@ -8,7 +8,12 @@
     "documentationUrl": "https://github.com/ku6ryo/FirstOpenUpmPackage/README.md",
     "changelogUrl": "",
     "licensesUrl": "https://github.com/ku6ryo/FirstOpenUpmPackage/blob/main/LICENSE",
-    "dependencies": {},
+    "dependencies": {
+      "com.unity.visualscripting": "1.9.1",
+      "com.unity.polyspatial": "0.6.3",
+      "com.unity.polyspatial.visionos": "0.6.3",
+      "com.unity.polyspatial.xr": "0.6.3"
+   },
     "keywords": [
       "Visual Scripting"
     ],
